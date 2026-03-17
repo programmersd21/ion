@@ -1,0 +1,39 @@
+# Rust/Cargo
+/target/
+/**/Cargo.lock
+**/*.rs.bk
+
+# IDEs
+/.idea/
+/.vscode/
+/*.sublime-workspace
+/*.sublime-project
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temp
+*.log
+*.tmp
+*.temp
+*.swp
+*.bak
+
+# Build tools
+/build/
+/out/
+/pkg/
+/node_modules/
+/dist/
+
+# Misc
+*.rs.bk
+*.rmeta
+*.rlib
+*.dSYM/
+*.exe
+*.dll
+*.so
+*.dylib
